@@ -7,7 +7,7 @@ public class Principal extends JFrame implements ActionListener {
     private JButton button;
 
     public Principal() {
-        setTitle("Calculadora de Formas Geométricas");
+        setTitle("Atividade 11");
         setSize(300, 150);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
